@@ -18,7 +18,9 @@ body {
 }
 
 footer .panel {
-  background-color: #b7b1b0;
+  background-color: #CAC4C3;
 }
 
 .photo-item { margin-bottom: 10px; }
+
+.social-links { margin-top: 20px; margin-bottom: 20px; }
