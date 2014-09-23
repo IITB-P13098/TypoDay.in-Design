@@ -1,0 +1,22 @@
+* { border-radius: 0 !important; }
+
+header img { margin-bottom: 20px; }
+
+body {
+  background-color: #460B0C;
+}
+
+.container {
+  max-width: 740px;
+  background-color: #b7b1b0;
+}
+
+.panel-post .panel-heading {
+  color: #9E191D;
+  font-family: 'Overlock', 'Ek Mukta', Georgia, Times, "Times New Roman", serif;
+  border-bottom: 1px dashed #eee;
+}
+
+footer .panel {
+  background-color: #b7b1b0;
+}
